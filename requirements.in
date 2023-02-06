@@ -1,0 +1,6 @@
+wheel
+jupyter-book
+jupyter_contrib_nbextensions
+git+https://github.com/mkrphys/ipython-tikzmagic.git
+
+
